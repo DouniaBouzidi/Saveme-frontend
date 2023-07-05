@@ -18,7 +18,8 @@
 
 <script>
 export default {
-  name: 'Songs',
+  // eslint-disable-next-line vue/multi-word-component-names
+  name: 'SongsView',
   data () {
     return {
       songs: []
