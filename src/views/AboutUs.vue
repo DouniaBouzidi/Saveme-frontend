@@ -8,7 +8,7 @@
         <div class="text-center mt-5">
           <h4 class="mb-4">Created by</h4>
           <h5>Dounia Bouzidi</h5>
-          <h5>Mustafa Adlan</h5>
+          <h5>Mostafa Adlan</h5>
         </div>
       </div>
     </div>
