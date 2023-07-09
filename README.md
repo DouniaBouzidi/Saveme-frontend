@@ -1,5 +1,7 @@
 # Saveme-frontend
 
+[![Frontend CI](https://github.com/DouniaBouzidi/Saveme-frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/DouniaBouzidi/Saveme-frontend/actions/workflows/ci.yml)
+
 ## Beschreibung
 Die folgende Applikation namens "Saveme" erfüllt die Aufgabe, Lieblingsmusik mit einem Klick zu speichern  .
 
@@ -29,4 +31,4 @@ Plus-Schaltfläche unten rechts auf dem Bildschirm.
 * Vue.js
 * GitHub Pages
 
-[![Frontend CI](https://github.com/DouniaBouzidi/Saveme-frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/DouniaBouzidi/Saveme-frontend/actions/workflows/ci.yml)
+
