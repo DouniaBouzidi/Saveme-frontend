@@ -1,14 +1,20 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Home from '../views/Home.vue'
-import About from '../views/About.vue'
-import Songs from '../views/Songs.vue'
+import Home from '../views/Song.vue'
+import About from '../views/AboutUs.vue'
+import Songs from '../views/Favorite.vue'
 import NotFound from '../views/NotFound.vue'
+import RandomSong from '../views/FavoriteSong.vue'
 
 const routes = [
   {
     path: '/',
     name: 'Home',
     component: Home
+  },
+  {
+    path: '/favorite-song',
+    name: 'FavoriteSong',
+    component: RandomSong
   },
   {
     path: '/about',
